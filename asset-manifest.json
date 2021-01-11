@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spacexconsole/static/css/main.fbd972af.chunk.css",
+    "main.js": "/spacexconsole/static/js/main.75e6ea68.chunk.js",
+    "main.js.map": "/spacexconsole/static/js/main.75e6ea68.chunk.js.map",
+    "runtime-main.js": "/spacexconsole/static/js/runtime-main.f7e510cb.js",
+    "runtime-main.js.map": "/spacexconsole/static/js/runtime-main.f7e510cb.js.map",
+    "static/js/2.faa71e96.chunk.js": "/spacexconsole/static/js/2.faa71e96.chunk.js",
+    "static/js/2.faa71e96.chunk.js.map": "/spacexconsole/static/js/2.faa71e96.chunk.js.map",
+    "index.html": "/spacexconsole/index.html",
+    "precache-manifest.b16e18a06bca60e635324ed36bdbeadc.js": "/spacexconsole/precache-manifest.b16e18a06bca60e635324ed36bdbeadc.js",
+    "service-worker.js": "/spacexconsole/service-worker.js",
+    "static/css/main.fbd972af.chunk.css.map": "/spacexconsole/static/css/main.fbd972af.chunk.css.map",
+    "static/js/2.faa71e96.chunk.js.LICENSE.txt": "/spacexconsole/static/js/2.faa71e96.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spacexconsole/static/media/logo.dd8520ed.svg",
+    "static/media/logo.png": "/spacexconsole/static/media/logo.e4534736.png",
+    "static/media/logo_x.svg": "/spacexconsole/static/media/logo_x.d04e2526.svg",
+    "static/media/spacexconsole_logo.svg": "/spacexconsole/static/media/spacexconsole_logo.4f0ee448.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e510cb.js",
+    "static/js/2.faa71e96.chunk.js",
+    "static/css/main.fbd972af.chunk.css",
+    "static/js/main.75e6ea68.chunk.js"
+  ]
+}
