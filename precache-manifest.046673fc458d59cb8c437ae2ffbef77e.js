@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb1575834d744a8d7c9074a9bb676484",
+    "revision": "2b2f1f6f82b0910df68ec65d9cd245ef",
     "url": "/spacexconsole/index.html"
   },
   {
-    "revision": "e94e043f506768e2a702",
-    "url": "/spacexconsole/static/css/main.fbd972af.chunk.css"
+    "revision": "8ed48145809a6171dd97",
+    "url": "/spacexconsole/static/css/main.8d77ad21.chunk.css"
   },
   {
     "revision": "b6f69afb99f56a36c04d",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spacexconsole/static/js/2.faa71e96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e94e043f506768e2a702",
+    "revision": "8ed48145809a6171dd97",
     "url": "/spacexconsole/static/js/main.75e6ea68.chunk.js"
   },
   {
     "revision": "8d5b577927147870d8c4",
     "url": "/spacexconsole/static/js/runtime-main.f7e510cb.js"
+  },
+  {
+    "revision": "e251aee7b12646dfcd97055e965612d1",
+    "url": "/spacexconsole/static/media/home1.e251aee7.jpg"
   },
   {
     "revision": "dd8520ed969ba3587333e0169462adbd",

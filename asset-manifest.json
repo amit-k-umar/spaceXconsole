@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spacexconsole/static/css/main.fbd972af.chunk.css",
+    "main.css": "/spacexconsole/static/css/main.8d77ad21.chunk.css",
     "main.js": "/spacexconsole/static/js/main.75e6ea68.chunk.js",
     "main.js.map": "/spacexconsole/static/js/main.75e6ea68.chunk.js.map",
     "runtime-main.js": "/spacexconsole/static/js/runtime-main.f7e510cb.js",
@@ -8,10 +8,11 @@
     "static/js/2.faa71e96.chunk.js": "/spacexconsole/static/js/2.faa71e96.chunk.js",
     "static/js/2.faa71e96.chunk.js.map": "/spacexconsole/static/js/2.faa71e96.chunk.js.map",
     "index.html": "/spacexconsole/index.html",
-    "precache-manifest.b16e18a06bca60e635324ed36bdbeadc.js": "/spacexconsole/precache-manifest.b16e18a06bca60e635324ed36bdbeadc.js",
+    "precache-manifest.046673fc458d59cb8c437ae2ffbef77e.js": "/spacexconsole/precache-manifest.046673fc458d59cb8c437ae2ffbef77e.js",
     "service-worker.js": "/spacexconsole/service-worker.js",
-    "static/css/main.fbd972af.chunk.css.map": "/spacexconsole/static/css/main.fbd972af.chunk.css.map",
+    "static/css/main.8d77ad21.chunk.css.map": "/spacexconsole/static/css/main.8d77ad21.chunk.css.map",
     "static/js/2.faa71e96.chunk.js.LICENSE.txt": "/spacexconsole/static/js/2.faa71e96.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/spacexconsole/static/media/home1.e251aee7.jpg",
     "static/media/logo.svg": "/spacexconsole/static/media/logo.dd8520ed.svg",
     "static/media/logo.png": "/spacexconsole/static/media/logo.e4534736.png",
     "static/media/logo_x.svg": "/spacexconsole/static/media/logo_x.d04e2526.svg",
@@ -20,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.f7e510cb.js",
     "static/js/2.faa71e96.chunk.js",
-    "static/css/main.fbd972af.chunk.css",
+    "static/css/main.8d77ad21.chunk.css",
     "static/js/main.75e6ea68.chunk.js"
   ]
 }
